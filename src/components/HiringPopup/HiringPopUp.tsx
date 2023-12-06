@@ -1,6 +1,6 @@
 import React from 'react';
 import { localization } from './generator';
-import Alert from '@mui/material/Alert';
+import './HiringPopUp.css';
 
 interface HiringPopUpProps {
 	setShowPopup:any;
